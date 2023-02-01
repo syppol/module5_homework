@@ -19,6 +19,6 @@ console.log(arr.length)
 
 /* OR */
 
-arr.map(function (item, array) {
+arr.map(function(item, array) {
   console.log(item)
 })
